@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.wst.jsdt.launching.baseBrowserLibrary"/>
+	<classpathentry excluding="src/main/webapp/resources/js/bootstrap.js|src/main/webapp/resources/js/bootstrap.min.js|src/main/webapp/resources/js/calendar.js|src/main/webapp/resources/js/jquery.catslider.js|src/main/webapp/resources/js/jquery.smint.js|src/main/webapp/resources/js/modernizr.custom.63321.js|src/main/webapp/resources/js/qascript.js" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipselabs.jsdt.jquery.core.CoflictLibrary_1.9"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
