@@ -26,7 +26,7 @@ public class BoardController {
 	private BoardDao boardDao;
 	@Autowired
 	private UserDao userDao;
-
+	// commit test
 	@RequestMapping(value = "/boardList", method = RequestMethod.GET)
 	public String boardList(Model model, HttpSession session,
 			HttpServletRequest request) throws ParseException {
